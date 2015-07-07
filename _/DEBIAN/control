@@ -1,0 +1,10 @@
+Package: com.yourcompany.welcomewagon
+Name: WelcomeWagon
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Brandon Trebitowski
+Author: Brandon Trebitowski
+Section: Tweaks
+Version: 0.0.1-11
+Installed-Size: 88
